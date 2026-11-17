@@ -1,8 +1,8 @@
-TrustTrace AI
+# TrustTrace AI
 
- A Provenance-Aware Framework for Detecting and Assessing Silent Data Manipulation in Machine Learning Training Pipelines
+### A Provenance-Aware Framework for Detecting and Assessing Silent Data Manipulation in Machine Learning Training Pipelines
 
- 1. Project Overview
+## 1. Project Overview
 
 TrustTrace AI is a machine learning security application designed to identify and assess suspicious data manipulation in training datasets.
 
